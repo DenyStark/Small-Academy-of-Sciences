@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sensor R="27.0" ADCCurR="4109" ADCMinR="3903" ADCMaxR="4314" name="світлові ворота" designation="LG" typeOfDependence="0">
+    <measuringScale ID="0" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="1" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="2" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="3" minADC="4080" maxADC="4095" minValue="0.0" maxValue="1.0" unit="i"/>
+</sensor>

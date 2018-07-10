@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sensor R="0.0" ADCCurR="0" ADCMinR="0" ADCMaxR="20" name="напруги" designation="U" typeOfDependence="0">
+    <measuringScale ID="0" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="1" minADC="0" maxADC="16383" minValue="-12.5" maxValue="12.5" unit="В"/>
+    <measuringScale ID="2" minADC="0" maxADC="16383" minValue="-0.250" maxValue="0.250" unit="В"/>
+    <measuringScale ID="3" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+</sensor>

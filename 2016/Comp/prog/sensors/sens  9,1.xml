@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sensor R="9.1" ADCCurR="1644" ADCMinR="1562" ADCMaxR="1726" name="вологості" designation="f" typeOfDependence="0">
+    <measuringScale ID="0" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="1" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="2" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="3" minADC="2735" maxADC="12820" minValue="0.0" maxValue="100.0" unit="%"/>
+</sensor>

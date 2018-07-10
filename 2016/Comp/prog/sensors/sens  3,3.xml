@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sensor R="3.3" ADCCurR="635" ADCMinR="603" ADCMaxR="666" name="струму" designation="I" typeOfDependence="0">
+    <measuringScale ID="0" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="1" minADC="0" maxADC="16383" minValue="-2.5" maxValue="2.5" unit="A"/>
+    <measuringScale ID="2" minADC="0" maxADC="16383" minValue="-250.0" maxValue="250.0" unit="мA"/>
+    <measuringScale ID="3" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+</sensor>

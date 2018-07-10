@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sensor R="7.5" ADCCurR="1378" ADCMinR="1309" ADCMaxR="1447" name="магнiтного поля" designation="B" typeOfDependence="0">
+    <measuringScale ID="0" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="1" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="2" minADC="0" maxADC="16383" minValue="-80.0" maxValue="80.0" unit="мТ"/>
+    <measuringScale ID="3" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+</sensor>

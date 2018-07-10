@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sensor R="15.0" ADCCurR="2553" ADCMinR="2425" ADCMaxR="2680" name="тиску" designation="P" typeOfDependence="0">
+    <measuringScale ID="0" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="1" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="2" minADC="0" maxADC="0" minValue="0.0" maxValue="0.0" unit=""/>
+    <measuringScale ID="3" minADC="0" maxADC="16383" minValue="-100.0" maxValue="100.0" unit="кПа"/>
+</sensor>
